@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Sherry! 👋
 
-<!--
-**sherry869/sherry869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find my projects, contributions, and a bit about me.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Software Developer & Tech Enthusiast
+- 🌱 Always learning new things
+- 🤝 Open to collaboration on interesting projects
+- 🎯 Focused on building impactful solutions
+
+---
+
+## 🛠️ Skills & Tools
+- Languages: Python, JavaScript, TypeScript, Java
+- Frameworks: React, Node.js, Express, Django
+- Tools: Git, VS Code, Docker, Postman
+- Databases: MySQL, MongoDB
+
+---
+
+## 📊 GitHub Stats
+![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherry869&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to reach me
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+---
+
+Thanks for visiting my profile! ⭐️
